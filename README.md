@@ -13,6 +13,7 @@
 * [Escrevendo Middlewares no Express](https://expressjs.com/en/guide/writing-middleware.html)
 * [Utilizando Middlewares no Express](https://expressjs.com/en/guide/using-middleware.html)
 * [Router no Express](https://expressjs.com/en/api.html#router)
+* [Mongoose Validation](https://mongoosejs.com/docs/validation.html)
 
 
 ## Comandos
