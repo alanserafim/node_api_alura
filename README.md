@@ -14,6 +14,9 @@
 * [Utilizando Middlewares no Express](https://expressjs.com/en/guide/using-middleware.html)
 * [Router no Express](https://expressjs.com/en/api.html#router)
 * [Mongoose Validation](https://mongoosejs.com/docs/validation.html)
+* [Operadores do MongoDB](https://www.mongodb.com/pt-br/docs/manual/reference/operator/query/)
+* [Operadores de Atualização do MongoDB](https://www.mongodb.com/pt-br/docs/manual/reference/operator/update/)
+* [6 Rules of Thumb for MongoDB Schema Design](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design)
 
 
 ## Comandos
