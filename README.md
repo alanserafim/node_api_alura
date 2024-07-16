@@ -1,5 +1,20 @@
 # node_api_alura
 
+Desenvolvimento de API Rest em Node.js utilizando Express e MongoDB com mongoose.
+Contendo: 
+
+* Configuração do servidor
+* Conexão com o Banco de Dados
+* Rotas
+* Modelos de Entidade
+* Controladores
+* Operaçoes CRUD em mongoDB com mongoose
+* Middlewares
+* Tratamento de Erros
+* Filtros de busca nas operações de consulta
+* Paginação e ordenação nas operações de consulta
+
+
 ## Referências
 
 * [Express](https://expressjs.com/pt-br/)
@@ -17,17 +32,6 @@
 * [Operadores do MongoDB](https://www.mongodb.com/pt-br/docs/manual/reference/operator/query/)
 * [Operadores de Atualização do MongoDB](https://www.mongodb.com/pt-br/docs/manual/reference/operator/update/)
 * [6 Rules of Thumb for MongoDB Schema Design](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design)
+* [Mongoose plugins](https://mongoosejs.com/docs/plugins.html)
 
 
-## Comandos
-
-ESLint
-
-    npm init @eslint/config
-    npx eslint . --fix
-
-preferences.json
-
-"editor.codeActionsOnSave": {
-        "source.fixAll.eslint": "explicit"
-    }
