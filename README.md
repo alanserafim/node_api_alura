@@ -13,6 +13,7 @@ Contendo:
 * Tratamento de Erros
 * Filtros de busca nas operações de consulta
 * Paginação e ordenação nas operações de consulta
+* Utilização do Postman para requisições
 
 
 ## Referências
